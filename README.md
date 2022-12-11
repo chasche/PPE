@@ -16,3 +16,7 @@ Parfois l'expression "femme au foyer" est remplacée par une expression équival
 Il faudrait donc utiliser une expression régulière tel que :
 (mère|femme|maman)s?(au foyer)
 pour repérer les occurences de ce concept dans les différents textes
+
+11/12
+j'ai tenté de faire une page d'acceuil html, pour l'instant elle est très minimaliste. J'ai choisi une image stock libre de droit sur le site pexels et je l'ai mise en "rond"
+j'ai laissé deux types de menu au cas où, j'en supprimerai un plus tard
