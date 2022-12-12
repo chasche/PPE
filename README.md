@@ -20,3 +20,6 @@ pour repérer les occurences de ce concept dans les différents textes
 11/12
 j'ai tenté de faire une page d'acceuil html, pour l'instant elle est très minimaliste. J'ai choisi une image stock libre de droit sur le site pexels et je l'ai mise en "rond"
 j'ai laissé deux types de menu au cas où, j'en supprimerai un plus tard
+
+12/12
+test slideshow et 3 images, je met les trois versions pour permettre à mes camarades de les voir
