@@ -7,7 +7,29 @@
         background-color: #D6F2F9;
       }
     </style>
+<style>
+  /* Style menu*/
+  nav {
+    background-color: lightblue;
+    display: flex; /* menu horizontal */
+    justify-content: space-between; /* repartir les liens sur tout l'espace du menu */
+	margin: 0 auto; /* Center the menu */
+    max-width: 1000px; /* Set the maximum width */
+    padding: 20px; /* Add padding to the menu */
+  }
 
+  /* Style liens */
+  nav a {
+    color: black; /*  couleur nom pages */
+    text-decoration: none; 
+    padding: 10px 20px; /* Add padding to the links */
+  }
+
+  /* Change the text color on hover */
+  nav a:hover {
+    color: white;
+  }
+</style>
 /* début slideshow */
 <style>
 
@@ -219,36 +241,23 @@ img {
 		<h2><center>Projet encadré M1 TAL 2021-2022</center></h2>
 	</hgroup>
 
-	<div id="nav">
-		<nav class="navmenu">
-			<ul class = "nav">
-				<li><a href="Accueil.html" style="color:#0c1169"><span>Accueil</span></a></li>
-				<li><a href="iTrameur.html" style="color:#0c1169"><span>iTrameur</span></a></li>
-				<li><a href="Nuages.html" style="color:#0c1169"><span>Nuages</span></a></li>
-				<li><a href="Scripts.html" style="color:#0c1169"><span>Scripts</span></a></li>
-				<li><a href="Tableaux.html" style="color:#0c1169"><span>Tableaux</span></a></li>
-				<li><a href="#on mettra le lien du blog ici" target ="_blank" style="color:#0c1169"><span>Blog</span></a></li>
-				</span></a></li>
-			</ul>
-		</nav>
-	</div>
 
 </header>
 
-<body><center>
-    <nav class="navMenu">
-      <a href="#lien">Accueil</a>
-      <a href="#">Tableau</a>
-      <a href="#">Script</a>
-      <a href="#">Nuage</a>
-      <a href="#">iTrameur</a>
-      <a href="#">Blog</a>
-      <a href="#">à propos</a>
-      <div class="dot"></div>
-    </nav>
-  </center></body>
+
 
 <body>
+	
+<nav>
+  <a href="/page1.html">Accueil</a>
+  <a href="/page2.html">Script </a>
+  <a href="/page3.html">Tableaux</a>
+  <a href="/page1.html">iTrameur</a>
+  <a href="/page2.html">Nuages de mots</a>
+  <a href="/page3.html">Conclusion</a>
+	
+</nav>
+	
 	<div id="wrapper">
 		<div id="section">
 			<h3> <center> La perception des femmes au foyer dans la presse chinoise, française et russe </center></h3>
