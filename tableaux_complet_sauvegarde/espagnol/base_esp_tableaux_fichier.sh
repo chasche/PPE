@@ -18,7 +18,7 @@ then
 	exit
 fi
 
-mot="([Ff]emmes?|[Mm]ères?) au foyer" # à modifier
+mot="[Aa]mas? de casa" # à modifier
 
 echo $fichier_urls;
 basename=$(basename -s .txt $fichier_urls)
@@ -67,7 +67,7 @@ while read -r URL; do
   
 
   # compte du nombre d'occurrences
-  NB_OCC=$(grep -E -o $mot ./dumps-text/$basename-$lineno.txt | wc -l)
+  NB_OCC=$(grep -E -o "$mot" ./dumps-text/$basename-$lineno.txt | wc -l)
 
   # extraction des contextes
 
