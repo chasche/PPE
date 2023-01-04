@@ -27,3 +27,9 @@ lien des trois images:
 https://images.pexels.com/photos/5907814/pexels-photo-5907814.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 https://images.pexels.com/photos/3806973/pexels-photo-3806973.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
 https://images.pexels.com/photos/9462307/pexels-photo-9462307.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1
+
+22/12
+tri des urls dans les différentes langues en supprimant au fur et a mesure celles qui ne sont pas reconnues et ajout de nouvelles urls pour en avoir 50 qui permettent de faire le tableau
+
+04/01
+Ajout d'un dossier contenant la version finale complète des tableaux dans chaque langue, afin d'avoir une sauvegarde 
