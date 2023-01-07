@@ -33,3 +33,11 @@ tri des urls dans les différentes langues en supprimant au fur et a mesure cell
 
 04/01
 Ajout d'un dossier contenant la version finale complète des tableaux dans chaque langue, afin d'avoir une sauvegarde 
+
+05/01
+image nuage de mot: https://www.pexels.com/photo/focused-asian-woman-washing-dishes-7262358/
+image script: https://www.pexels.com/photo/woman-carrying-her-baby-and-working-on-a-laptop-4079281/
+image journal: https://www.pexels.com/photo/flat-lay-photography-of-unfold-book-beside-macbook-295826/
+image conclusion: https://www.pexels.com/photo/cheerful-women-cooking-together-in-kitchen-3772534/
+les modifications d'images ont été faites avec https://pixlr.com/x/#home
+je met le contenu du site sur mon github pour pouvoir tester le deploiement des pages car je n'ai pas accès à l'onglet settings sur le repository du groupe
